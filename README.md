@@ -2,6 +2,34 @@
 
 > Avram Grunt plugin
 
+This is a plugin for avram grunt, the football coach which has the biggest ASS:
+
+        ..ooo*   **ooooo . oo*  *ooo..
+             .  oo*             *o.oo*            *o.
+            . o"                    o                   "o
+             o                      o                     *o
+           .o                       o                        'o
+           o                        o                          o.
+          o                          o                          o
+         o                          \o/                         o
+         o                         --0--                         o
+         o.                         /o\                         .o
+          o                          o                           o
+          oo                         o                          oo
+          oo.                       oo                        oo
+            ooo.                  .oo.                     ooo
+             o   oo,,        ,,oO- Oo,       ,,,,,,..oo o
+             o.                    oo                    .o
+              o                    oo                    o
+             *o                    oo                    o
+               o                    o                    o
+              o                     o                   o
+               o                    o                  o
+               o                    o                 o
+               o                    o                 o
+                o                    o                 o
+                o                    o                 o
+
 ## Getting Started
 This plugin requires Grunt.
 
