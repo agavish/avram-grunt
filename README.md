@@ -2,7 +2,7 @@
 
 > Avram Grunt plugin
 
-This is a plugin for avram grunt, the football coach which has the biggest ASS:
+This is a plugin for avram grunt, the football coach whose ass is the biggest:
 
         ..ooo*   **ooooo . oo*  *ooo..
              .  oo*             *o.oo*            *o.
